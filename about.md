@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog contains information about social media information related to autism. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contact
 
 [email@domain.com](mailto:email@domain.com)
