@@ -10,4 +10,6 @@ This blog contains information about social media information related to autism.
 
 ### Contact
 
-[email@domain.com](mailto:email@domain.com)
+For more information about the content contained in this blog, please contact:
+
+[AutismSocialMediaAnalysis@gmail.com](mailto:AutismSocialMediaAnalysis@gmail.com)
