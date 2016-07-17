@@ -15,3 +15,10 @@ We've set up this blog to discuss extracting information from social media sites
 For more information about the content contained in this blog, please contact:
 
 [AutismSocialMediaAnalysis@gmail.com](mailto:AutismSocialMediaAnalysis@gmail.com)
+
+
+### Email Updates
+
+To receive an email notice when a new entry is posted to the blog, please email:
+
+[AutismSocialMediaAnalysis@gmail.com](mailto:AutismSocialMediaAnalysis@gmail.com)
