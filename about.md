@@ -17,6 +17,12 @@ For more information about the content contained in this blog, please contact:
 [AutismSocialMediaAnalysis@gmail.com](mailto:AutismSocialMediaAnalysis@gmail.com)
 
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
 ### Email Updates
 
 To receive an email notice when a new entry is posted to the blog, please email:
