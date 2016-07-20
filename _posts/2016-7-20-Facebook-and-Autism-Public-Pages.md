@@ -27,7 +27,9 @@ TX | 26
 FL  | 22
 PA | 21
 
-The “talking about” field can be used to identify pages connected to the Facebook system (add link).  The top 5 pages, based on the ‘talking about’ count are:
+When establishing a process to download daily content from these autism-related facebook pages, we selected pages from english speaking countries.  For pages without a country identifier, we use text analysis to identify english-language sites. 
+
+All pages do not contain the same amount of information.  Some pages contain frequent updates, while others are updated rarely.  Additionally, some pages are highly connected to the Facebook network, while others are not.  The “talking about” field can be used as one metric to identify pages' connection to the Facebook network.  The top 5 pages, based on the ‘talking about’ count are:
 
 Page | Talking About Count
 --- | ---
@@ -42,7 +44,7 @@ Autistic Yui |  75359
 National Autism Association |  65025
 
 
-It is also possible to examine the (self-identified) Facebook categories associated with the pages.  The top 5 categories are:
+Using the page information, it is also possible to examine the (self-identified) Facebook categories associated with the pages.  The top 5 categories are:
 
 
 Category | Count
@@ -53,7 +55,7 @@ Local Business | 113
 Community Organization | 37
 Education | 30
 
-
+In future blog posts, we will examine how the list of autism related pages changes over time.  We will also examine post frequency of individul pages, and separate active from inactive pages. 
 
 
 
