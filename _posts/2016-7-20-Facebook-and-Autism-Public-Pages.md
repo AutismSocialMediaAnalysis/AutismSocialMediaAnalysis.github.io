@@ -34,13 +34,9 @@ All pages do not contain the same amount of information.  Some pages contain fre
 Page | Talking About Count
 --- | ---
 Autism Awareness | 161724
-
 World Autism Awareness Day | 110573
-
 Autism Speaks |  105922
-
 Autistic Yui |  75359
-
 National Autism Association |  65025
 
 
