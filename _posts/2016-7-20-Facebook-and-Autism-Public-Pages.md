@@ -3,7 +3,8 @@ layout: post
 title: Facebook and Autism Public Pages      
 ---
 
-The Twitter and Facebook APIs, used to access posts from the websites, are based on different philosophies.  Twitter allows for more direct querying of posts based on topics.  It is not possible to utilize a keyword search using the existing Facebook API.  It is possible, however, to search for public Facebook pages containing specified words. 
+Twitter and Facebook APIs, used to access posts from the websites, are based on different philosophies.  Twitter allows for more direct querying of posts and content.  Facebook allows for designating pages as private.  Additionally, it is not possible to utilize a keyword search using the existing Facebook API.  It is possible, however, to use the API to search for public Facebook pages based on specified words. 
+
  We used the public page search to locate pages containing the keywords ‘autism’, ‘autistic’, and ‘asperger’.  1200 English-language pages were identified from the API search.  
 
 The top 5 countries contained in the Facebook page autism dataset are listed below.  Most pages do not have a country identified.
