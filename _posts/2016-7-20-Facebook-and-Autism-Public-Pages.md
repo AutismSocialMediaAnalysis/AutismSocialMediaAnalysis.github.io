@@ -7,6 +7,7 @@ The Twitter and Facebook APIs, used to access posts from the websites, are based
  We used the public page search to locate pages containing the keywords ‘autism’, ‘autistic’, and ‘asperger’.  1200 English-language pages were identified from the API search.  
 
 The top 5 countries contained in the Facebook page autism dataset are listed below.  Most pages do not have a country identified.
+
 Country | Number of Pages
 --- | --- 
   NA  | 708
@@ -26,6 +27,7 @@ FL  | 22
 PA | 21
 
 The “talking about” field can be used to identify pages connected to the Facebook system (add link).  The top 5 pages, based on the ‘talking about’ count are:
+
 Page | Talking About Count
 --- | ---
 Autism Awareness | 161724
