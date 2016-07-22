@@ -10,7 +10,7 @@ Twitter and Facebook APIs, used to access data from the Facebook and Twitter sys
 The top 5 countries contained in the Facebook page autism dataset are listed below.  Most pages do not have a country identified.
 
 Country | Number of Pages
---- | --- 
+--- | ---: 
   NA  | 708
   United States  | 349
  United Kingdon  | 98
@@ -20,7 +20,7 @@ Australia | 28
 For the 349 pages identified as being located in the United States, the following table lists the top 5 states.
 
 State  | Number of Pages
---- | ---
+--- | ---:
 CA | 34
 NY | 32
 TX | 26
@@ -32,7 +32,7 @@ When establishing a process to download daily content from these autism-related 
 All pages do not contain the same amount of information.  Some pages contain frequent updates, while others are updated rarely.  Additionally, some pages are highly connected to the Facebook network, while others are not.  The “talking about” field can be used as one metric to identify pages' connection to the Facebook network.  The top 5 pages, based on the ‘talking about’ count are:
 
 Page | Talking About Count
---- | ---
+--- | ---:
 Autism Awareness | 161724
 World Autism Awareness Day | 110573
 Autism Speaks |  105922
@@ -44,7 +44,7 @@ Using the page information, it is also possible to examine the (self-identified)
 
 
 Category | Count
----|---
+---|---:
 Community | 490
 Non-Profit Organization | 285
 Local Business | 113
