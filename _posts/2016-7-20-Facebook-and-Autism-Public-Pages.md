@@ -20,6 +20,11 @@ France | 15
 It is important to note that the preceding country list is based on pages that self-identify with a non-english speaking country.  The most common entry (1364 sites) for the country field is "NA".  Text analysis of language-specific words could result in classification of pages that are missing a country identified to a country or set of countries. We performed this exercise to determine english-language pages, but did not repeat the exercise for non english language pages.
 
 
+It is also possible to plot the location of the autism Facebook pages on a map, using longitude and latitude information.  640 of the 2200 pages contained longitude and latitude information.  The following map plots the global location for these pages:
+
+![Autism Pages](/images/AutismWorldMap.png)
+
+
 The top 5 English-language countries contained in the autism Facebook page dataset are listed below.  Most pages do not have a country identified (a page is identified as english-language if the 'country' field is a english speaking country, or if the text in the 'about' or 'description' fields identify the page as english-language).
 
 Country | Number of Pages
