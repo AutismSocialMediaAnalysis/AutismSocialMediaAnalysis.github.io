@@ -20,6 +20,21 @@ Rank|Number of Followers|Number of Posts|Number of Favorites
 5 | i Get It! Apps | Phyllis Brodsky | SoftBank Robotics EU 
 
 
+[Model Me Kids LLC] (http://www.modelmekids.com/), a company 'dedicated to producing high quality teaching tools for children with Autism, Asperger Syndrome, PDD-NOS, and developmental delays' has the most followers of the 101 accounts. It also is actively involved in posting to twitter, having the 4th most posts.
 
-[Autism Pages](/images/AutismWorldMap.png)
+[SoftBank Robotics](https://www.ald.softbankrobotics.com/en) is a company specializing in robotics which has contributed to the autism community. It has the 3rd most followers of the companies tracked. Additionally, its posts are often viewed positively, having the 5th most favorited posts.
+
+The following table lists companies having the greatest increase in followers, posts and likes between August and July 2016.
+
+Rank|Number of Followers|Number of Posts|Number of Favorites
+--- | --- | --- | ---:
+1 | Brain Power | ICE4Autism |TigerFace Games
+2 | SoftBank Robotics EU  | Bappz | Bappz
+3 | Autism Village | Rufus Robot | lisa Maree Domican
+4 | Awake Labs | Birdhouse Health | Live2LearnDiff
+5 | ICE4Autism | Live2LearnDiff | Awake Labs 
+
+[Brain Power](http://www.brain-power.com/) had the greatest increase in followers during August. This company builds 'software and hardware to transform Google GlassT into a neuro-assistive device for people with autism,' and has received significant attention in social media.
+
+Softbank Robotics has the 2nd most followers in this table, and was in the 3rd position in the preceding table. This indicates that the company is rapidly increasing followers and gaining exposure on twitter, and has become one of the top followed companies of the 101 tracked companies.
 
