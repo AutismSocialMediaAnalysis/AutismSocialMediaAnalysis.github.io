@@ -11,3 +11,5 @@ The following heatmap shows the Twitter posting frequency since September 1, 201
 
 
 ![Twitter Post Frequency](/images/twitterHeatmapWithRetweets.png)
+
+Accounts such as ICE4Autism have posted nearly every day, while accounts such as WeAreLeka are much less frequent users of Twitter.
